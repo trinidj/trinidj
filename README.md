@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm John</h1>
-<h3 align="center">I'm an aspiring **front-end developer** on a journey to lear web development! I'm passionate about creating clean, interactive websites and constantly expanding my coding skills.</h3>
+<p align="center">I'm an aspiring **front-end developer** on a journey to lear web development! I'm passionate about creating clean, interactive websites and constantly expanding my coding skills.</p>
 
 <br />
 
