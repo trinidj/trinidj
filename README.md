@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm John 👋</h1>
-<h2 aligm="center">I'm an aspiring **front-end developer** learning to create clean, user-friendly websites and web applications!</h2>
+<h3 aligm="center">I'm an aspiring **front-end developer** learning to create clean, user-friendly websites and web applications!</h3>
 
 ## 🛠️ What I'm Learning
 - HTML, CSS, JavaScript
