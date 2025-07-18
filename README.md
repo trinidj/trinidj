@@ -13,11 +13,11 @@
 
 ## 🤝 Connect
 <p align="left">
-  <a href="mailto:jm.trinidad199@gmail.com">
-    
+  <a href="mailto:jm.trinidad199@gmail.com" target="_blank" alt="Gmail">
+    <img align="center" src="/images/icons/gmail.svg" alt="Gmail Icon" height="30">
   </a>
   
   <a href="https://www.linkedin.com/in/john-michael-trinidad-8b689a303/" target="_blank" alt="LinkedIn">
-    <img src="/images/icons/linkedin.svg" alt="LinkedIn-Icon" height="40">
+    <img align="center" src="/images/icons/linkedin.svg" alt="LinkedIn Icon" height="30">
   </a> 
 </p>
