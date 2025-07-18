@@ -11,7 +11,7 @@
 - JavaScript fundamentals
 - CSS layouts and animations
 
-## 🤝 Connect
+## 🤝 Let's Connect!
 <p align="left">
   <a href="mailto:jm.trinidad199@gmail.com" target="_blank" alt="Gmail">
     <img align="center" src="/images/icons/gmail.svg" alt="Gmail Icon" height="30">
