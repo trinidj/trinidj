@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi! 👋
 
-<!--
-**trinidj/trinidj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning front-end development and building projects to practice.
 
-Here are some ideas to get you started:
+## 🛠️ What I'm Learning
+- HTML, CSS, JavaScript
+- Responsive design
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Building portfolio website
+- JavaScript fundamentals
+- CSS layouts and animations
+
+## 📫 Connect
+- 📧 [your-email@example.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/john-michael-trinidad-8b689a303/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trinidj&show_icons=true&theme=dark)
