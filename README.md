@@ -1,17 +1,22 @@
 <h1 align="center">Hi there 👋, I'm John</h1>
-<h3 align="center">I'm an aspiring front-end developer on a journey to learn web development and expand my coding skills!</h3>
-
+<h3 align="center">
+  <strong>Aspriring Front-End Developer</strong> passionate about creating beautiful and functional web applications.
+</h3>
 <br />
 
-## 🛠️ What I'm Learning
-- HTML, CSS, JavaScript
-- Responsive design
+## 🚀 About Me
+<p>
+  I'm passionate about <strong>web development</strong> and learning to builld clean, user-          friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
+  
+  <ul>
+    <li>🌱 Currently learning: JavaScript Fundamentals</li>
+    <li>🔭 Working on: Digital Clock/Stop Timer Application</li>
+    <li>💡 Interested In: Responsive design, user expereince, and clean code</li>
+  </ul>
+</p>
 
-## 🚀 Current Focus
-- JavaScript fundamentals
-- CSS layouts and animations
 
-## 🤝 Let's Connect!
+## 💬 Let's Connect!
 <p align="left">
   <a href="mailto:jm.trinidad199@gmail.com" target="_blank" alt="Gmail">
     <img align="center" src="/images/icons/gmail.svg" alt="Gmail Icon" height="30">
