@@ -15,6 +15,7 @@
   </ul>
 </p>
 
+## 💻 Languages
 
 ## 💬 Let's Connect!
 <p align="left">
