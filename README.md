@@ -18,9 +18,9 @@
 ## 💻 Languages
 <p align="left">
   <img align="center" src="/images/icons/html5.svg" alt="HTML5 Icon" height="30">
-  &emsp;
+  &thinsp;
   <img align="center" src="/images/icons/css.svg" alt="CSS Icon" height="30">
-  &emsp;
+  &thinsp;
   <img align="center" src="/images/icons/javascript.svg" alt="JavaScriptgit  Icon" height="30">
 </p>
 
