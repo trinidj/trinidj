@@ -19,7 +19,7 @@
 <p align="left">
   <img align="center" src="/images/icons/html5.svg" alt="HTML5 Icon" height="25">
   <img align="center" src="/images/icons/css.svg" alt="CSS Icon" height="25">
-  <img align="center" src="/images/icons/javascript.svg" alt="JavaScript Icon" height="25">
+  <img align="center" src="/images/icons/javascript.svg" alt="JavaScriptgit  Icon" height="25">
 </p>
 
 ## 💬 Let's Connect!
