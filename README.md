@@ -16,13 +16,16 @@
 </p>
 
 ## 💻 Languages
+<p align="left">
+  
+</p>
 
 ## 💬 Let's Connect!
 <p align="left">
   <a href="mailto:jm.trinidad199@gmail.com" target="_blank" alt="Gmail">
     <img align="center" src="/images/icons/gmail.svg" alt="Gmail Icon" height="25">
   </a>
-  
+  &emsp;&emsp;
   <a href="https://www.linkedin.com/in/john-michael-trinidad-8b689a303/" target="_blank" alt="LinkedIn">
     <img align="center" src="/images/icons/linkedin.svg" alt="LinkedIn Icon" height="30">
   </a> 
