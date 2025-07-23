@@ -6,7 +6,7 @@
 
 ## ✨ Who Am I?
 <p>
-  I'm passionate about <strong>web development</strong> and learning to build clean, user-          friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
+  I'm passionate about <strong>web development</strong> and learning to build clean, user-friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
   
   <ul>
     <li>🌱 Learning: JavaScript Fundamentals</li>
@@ -21,15 +21,13 @@
   &thinsp;
   <img align="center" src="/images/icons/css.svg" alt="CSS Icon" height="30">
   &thinsp;
-  <img align="center" src="/images/icons/javascript.svg" alt="JavaScript  Icon" height="30">
+  <img align="center" src="/images/icons/javascript.svg" alt="JavaScript Icon" height="30">
+  &thinsp;
+  <img align="center" src="/images//icons/git.svg" alt="Git Icon" height="30">
 </p>
 
 ## 💬 Let's Connect!
 <p align="left">
-  <a href="mailto:jmtrinidad199@gmail.com">
-    <img align="center" src="/images/icons/gmail.svg" alt="Gmail Icon" height="30">
-  </a>
-
   <a href="https://www.linkedin.com/in/john-michael-trinidad-8b689a303/" target="_blank" alt="LinkedIn">
     <img align="center" src="/images/icons/linkedin.svg" alt="LinkedIn Icon" height="30">
   </a> 
