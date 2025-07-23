@@ -4,12 +4,12 @@
 </h3>
 <br />
 
-## 🚀 About Me
+## ✨ Who Am I?
 <p>
   I'm passionate about <strong>web development</strong> and learning to build clean, user-          friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
   
   <ul>
-    <li>🌱 Currently learning: JavaScript Fundamentals</li>
+    <li>🌱 Learning: JavaScript Fundamentals</li>
     <li>🔭 Working on: Digital Clock/Stop Timer Application</li>
     <li>💡 Interested In: Responsive design, user experience, and clean code</li>
   </ul>
