@@ -3,7 +3,10 @@
 ## ✨ Who Am I?
 <p>
   I'm passionate about <strong>web development</strong> and learning to builld clean, user-friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
-  
+</p>
+
+## 🚀 Current Focus
+<p align="left">
   <ul>
     <li>🌱 Currently learning: JavaScript Fundamentals</li>
     <li>🔭 Working on: Digital Clock/Stop Timer Application</li>
