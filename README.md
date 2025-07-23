@@ -8,7 +8,7 @@
 ## 🚀 Current Focus
 <p align="left">
   <ul>
-    <li>🌱 Currently learning: JavaScript Fundamentals</li>
+    <li>🌱 Learning: JavaScript Fundamentals</li>
     <li>🔭 Working on: Digital Clock/Stop Timer Application</li>
     <li>💡 Interested In: Responsive design, user expereince, and clean code</li>
   </ul>
