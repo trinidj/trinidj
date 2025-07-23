@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm John</h1>
 <h3 align="center">
-  <strong>Aspriring Front-End Developer</strong> passionate about creating beautiful and functional web applications.
+  <strong>Aspiring Front-End Developer</strong> passionate about creating beautiful and functional web applications.
 </h3>
 <br />
 
 ## 🚀 About Me
 <p>
-  I'm passionate about <strong>web development</strong> and learning to builld clean, user-          friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
+  I'm passionate about <strong>web development</strong> and learning to build clean, user-          friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
   
   <ul>
     <li>🌱 Currently learning: JavaScript Fundamentals</li>
     <li>🔭 Working on: Digital Clock/Stop Timer Application</li>
-    <li>💡 Interested In: Responsive design, user expereince, and clean code</li>
+    <li>💡 Interested In: Responsive design, user experience, and clean code</li>
   </ul>
 </p>
 
@@ -21,11 +21,15 @@
   &thinsp;
   <img align="center" src="/images/icons/css.svg" alt="CSS Icon" height="30">
   &thinsp;
-  <img align="center" src="/images/icons/javascript.svg" alt="JavaScriptgit  Icon" height="30">
+  <img align="center" src="/images/icons/javascript.svg" alt="JavaScript  Icon" height="30">
 </p>
 
 ## 💬 Let's Connect!
 <p align="left">
+  <a href="mailto:jmtrinidad199@gmail.com">
+    <img align="center" src="/images/icons/gmail.svg" alt="Gmail Icon" height="30">
+  </a>
+
   <a href="https://www.linkedin.com/in/john-michael-trinidad-8b689a303/" target="_blank" alt="LinkedIn">
     <img align="center" src="/images/icons/linkedin.svg" alt="LinkedIn Icon" height="30">
   </a> 
