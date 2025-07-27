@@ -9,8 +9,8 @@
   I'm passionate about <strong>web development</strong> and learning to build clean, user-friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
   
   <ul>
-    <li>🌱 Learning: Vue.js Basics</li>
-    <li>🔭 Working on: Password Generator Application</li>
+    <li>🌱 Learning: JavaScript Fundamentals</li>
+    <li>🔭 Working on: Digital Clock/Stop Timer Application</li>
     <li>💡 Interested In: Responsive design, user experience, and clean code</li>
   </ul>
 </p>
@@ -31,4 +31,8 @@
   <a href="https://www.linkedin.com/in/john-michael-trinidad-8b689a303/" target="_blank" alt="LinkedIn">
     <img align="center" src="/images/icons/socials/linkedin.svg" alt="LinkedIn Icon" height="30">
   </a> 
+  &thinsp;
+  <a href="https://x.com/trinidj_03" target="_blank" alt="Twitter">
+    <img align="center" src="/images/icons/socials/x_dark.svg" alt="Twitter Icon" height="30">
+  </a>
 </p>
