@@ -9,7 +9,7 @@
   I'm passionate about <strong>web development</strong> and learning to build clean, user-friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
   
   <ul>
-    <li>🌱 Learning: Vue.js Basics</li>
+    <li>🌱 Learning: Vue.js</li>
     <li>🔭 Working on: Password Generator Application</li>
     <li>💡 Interested In: Responsive design, user experience, and clean code</li>
   </ul>
