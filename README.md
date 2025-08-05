@@ -36,3 +36,7 @@
     <img align="center" src="/images/icons/socials/x_dark.svg" alt="Twitter Icon" height="30">
   </a>
 </p>
+
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trinidj)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinidj)](https://github.com/anuraghazra/github-readme-stats)
