@@ -10,7 +10,7 @@
   
   <ul>
     <li>🌱 Learning: Vue.js</li>
-    <li>🔭 Working on: Password Generator Application</li>
+    <li>🔭 Working on: Expense Tracker</li>
     <li>💡 Interested In: Responsive design, user experience, and clean code</li>
   </ul>
 </p>
