@@ -17,8 +17,6 @@
 
 ## 💻 Tech Stack
 <p align="left">
-  <img align="center" src="/images/icons/frameworks/vue.svg" alt="Vue.js Icon" height="30">
-  &thinsp;
   <img align="center" src="/images/icons/languages/html5.svg" alt="HTML5 Icon" height="30">
   &thinsp;
   <img align="center" src="/images/icons/languages/css.svg" alt="CSS Icon" height="30">
