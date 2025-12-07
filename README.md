@@ -9,8 +9,8 @@
   I'm passionate about <strong>web development</strong> and learning to build clean, user-friendly websites. Currently mastering <strong>HTML, CSS, and JavaScript</strong> while working    on my first projects.
   
   <ul>
-    <li>🌱 Learning: Vue.js with TailwindCSS</li>
-    <li>🔭 Working on: Expense Tracker</li>
+    <li>🌱 Learning: Next.js with TailwindCSS</li>
+    <li>🔭 Working on: Phrolova Project</li>
     <li>💡 Interested In: Responsive design, user experience, and clean code</li>
   </ul>
 </p>
