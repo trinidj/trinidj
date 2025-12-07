@@ -10,7 +10,7 @@
   
   <ul>
     <li>🌱 Learning: Next.js with TailwindCSS</li>
-    <li>🔭 Working on: Phrolova Project</li>
+    <li>🔭 Working on: Phrolova Project - Wuthering Waves Database</li>
     <li>💡 Interested In: Responsive design, user experience, and clean code</li>
   </ul>
 </p>
